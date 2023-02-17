@@ -88,8 +88,8 @@ table 50017 "SEI 4M change request"
         if "Serial Number" = '' then begin
 
             ManSetup.Get();
-            ManSetup.TestField("Simulated Order Nos.");
-            NoSeriesMgmnt.InitSeries(ManSetup."Simulated Order Nos.", xRec."No. Series", 0D, "Serial Number", "No. Series");
+            ManSetup.TestField("Planned Order Nos.");
+            NoSeriesMgmnt.InitSeries(ManSetup."Planned Order Nos.", xRec."No. Series", 0D, "Serial Number", "No. Series");
         end;
     end;
 
