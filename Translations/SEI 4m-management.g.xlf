@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SEI 4m-management">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 248700259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4M change request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3609502450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve-decline comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Approve-decline comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2030495332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APQP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field APQP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3532935625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1159403147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Attachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1660820124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost estimation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Cost estimation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1024569672 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost of change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Cost of change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2301460895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current regulation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Current regulation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3837172371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Customer item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 573876685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Customer name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 886257697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer notify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Customer notify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 449368406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field DE approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3712397314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration of 4M</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Duration of 4M - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1798599856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENG leader approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ENG leader approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2598173761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Evaluation required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3675908304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Final decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1957550397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Item description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 231200594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Item number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1708727138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Man / Machine description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Man / Machine description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Serise</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1997599935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PCN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 4148296714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PCN number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3252522434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PE approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1348325989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PP approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 4128211569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prod. manager approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prod. manager approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1483746638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Production release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2582772393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prupose of change with reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prupose of change with reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3622249462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA engineer approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field QA engineer approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3894138126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Request by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 883074743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Request date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3099782205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope of 4M request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Scope of 4M request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 87640997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Serial Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 944317772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special work instruction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Special work instruction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 215802879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test production</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Test production - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1760224210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test production quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Test production quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3074770475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of 4M request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Type of 4M request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2030167756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of cost est.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Unit of cost est. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3107934722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Waiver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2051529823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiver number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Waiver number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3129160141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work instruction details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Work instruction details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2794615140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work order numner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Work order numner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1910724542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of change request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control 4M Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1161151528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work order number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Work order number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 772246153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Management list</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change management list - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 772246153 - Control 1910724542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of change request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change management list - Control 4M Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 772246153 - Control 1161151528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work order number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change management list - Control Work order number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3420234355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4M Change Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 4M change report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3420234355 - ReportLabel 4059641124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teszgyártás menny. / Test prod. qty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report 4M change report - ReportLabel LblTestQty</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
