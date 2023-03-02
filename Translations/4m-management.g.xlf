@@ -8,11 +8,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 248700259 - Field 3609502450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Approve-decline comments</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Approve-decline comments - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Table 248700259 - Field 2030495332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>APQP</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -23,20 +18,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Area - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 248700259 - Field 1159403147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Attachment</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Attachment - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Table 248700259 - Field 1660820124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cost estimation</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Cost estimation - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 248700259 - Field 1024569672 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Cost of change</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Cost of change - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 2301460895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Current regulation</source>
@@ -58,30 +43,125 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Customer notify - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3750623962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field DE approve comments - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 449368406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>DE approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field DE approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1200948842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field DE approved date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2691048645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE approved user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field DE approved user - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 3712397314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Duration of 4M</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Duration of 4M - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3828520125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENG approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ENG approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3116398496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENG leade user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ENG leade user - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 1798599856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ENG leader approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ENG leader approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 936626236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENG leader approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ENG leader approved date - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 2598173761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Evaluation required</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Evaluation required - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3979910154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final approved user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Final approved user - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 3675908304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Final decision</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Final decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 4062690752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Final decision comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3890298012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Final decision date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3865388420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isDEApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isDEApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2215674138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isENGLeaderApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isENGLeaderApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2161847639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isFinalApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isFinalApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2296313921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isFinalNotificationSent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isFinalNotificationSent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 678402525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isHeaderEditable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isHeaderEditable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 384361365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isNotificationSent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isNotificationSent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 815698224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isPEApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isPEApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 4008906427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isPPApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isPPApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3156843278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isProdManApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isProdManApproved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 225035251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>isQAApproved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field isQAApproved - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 1957550397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item description</source>
@@ -93,10 +173,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Item number - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2791524474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Machine center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Machine center - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 1708727138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Man / Machine description</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Man / Machine description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1824856787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Measure attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Measure attachment - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>No. Serise</source>
@@ -108,25 +198,75 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PCN - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1377469608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PCN attachment - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 4148296714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PCN number</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PCN number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3971173070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PE approve comments - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 3252522434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PE approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PE approved - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1444831710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PE approved date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3471207921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE approved user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PE approved user - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2741675465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PP approve comments - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 1348325989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PP approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PP approved - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2223187985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PP approved date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 818391902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP approved user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field PP approved user - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 4128211569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Prod. manager approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prod. manager approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1012722341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prod. manager approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prod. manager approved date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1973044159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prod. manager user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prod. manager user - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3190178688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProdMan approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field ProdMan approve comments - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 1483746638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Production release</source>
@@ -138,15 +278,35 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Prupose of change with reason - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1121347105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA approve comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field QA approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3212770294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA approved user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field QA approved user - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 3622249462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>QA engineer approved</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field QA engineer approved - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 262029002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA engineer approved date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field QA engineer approved date - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 3894138126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Request by</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Request by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1634181231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request by GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Request by GUID - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 883074743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Request date</source>
@@ -203,10 +363,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Waiver - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 248700259 - Field 3597198769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiver attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Waiver attachment - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 248700259 - Field 2051529823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Waiver number</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Waiver number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 2551570065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WI attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field WI attachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 248700259 - Field 1805427460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work instruction attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SEI 4M change request - Field Work instruction attachment - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 248700259 - Field 3129160141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Work instruction details</source>
@@ -223,15 +398,480 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1493241205" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer notify must be on.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType CustNotyMustOn</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 245738004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Given date is in the past! Good work Dr. Emmett!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType DatInPast</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3454457774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure? After decision you can not change!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType DecisionConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3292692308" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4M change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType EmailSubject</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 97545317" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End date of duration is mandatory!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType EndDatIsMandatory</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3321547762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation required value must be "yes".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType EvaulationMustYes</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1308767200" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IATF document number of change request is not defined. Please define it on manufacturing setup page!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType IATFDocNotExist</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3858050556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item number is mandatory!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType ItemIsMandatory</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 2329144055" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4M type is permanent so no need setup duration date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NoNeedDuration</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3271609557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No need to fill it if customer notify is not required or Waiver must be "no"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NoNeedFillCustNotReqOrWaiverMustNo</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1876241551" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No need to fill it if customer notify is not required.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NoneedToFillCustNotReq</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 2533193421" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No need to fill it if customer notify is not required.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NoNeedToFillCustomer</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3240277958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have no permission to modify this record!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NoPermission</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3128354947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification has been sent already. Resending is not possible.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NotifyAlreadySent</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3522039944" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification has been sent successfully.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType NotifySentSuccess</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3461703792" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN must be "no"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType PcnMustBeNo</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1435624918" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN value must be "yes".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType PcnMustBeYes</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 105297757" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN / Waiver number already define!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType PCN_WaiverAlreadyDefined</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1080107704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record is not empty! Do you want overwrite existing data?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType RecIsNotEmptyConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 2743079742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record is empty!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType RecordIsEmpty</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 344322883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please wait for all department decision before final decision.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType WaitForAllDecision</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 743613099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiwer value must be "yes".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType WaiverMustBeYes</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 3961397404" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiver value must be "no".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType WaiverMustNo</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - NamedType 1723891313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Given date is too long. Maximum validity is 90 days.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - NamedType WrongDate</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Method 1462465087 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a pdf file to import...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Method ImportMeasureData - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Method 17618196 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a pdf file to import...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Method ImportPCNData - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Method 1531863458 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a pdf file to import...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Method ImportSpecWIData - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Method 1998925549 - NamedType 1968152428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a pdf file to import...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Method ImportWaiver - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3965841336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action based on 4M Matrix</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Action based on 4M Matrix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3837172371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Customer item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 573876685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Customer name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1483746638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Production release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 944317772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special work instruction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Special work instruction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 516293214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special work instruction details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Special work instruction details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1889646735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change request basic data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Change request basic data - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2879588671 - Control 1910724542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Number of change request</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control 4M Number - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3532935625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3712397314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration of 4M</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Duration of 4M - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1957550397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Item description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 231200594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Item number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2791524474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Machine center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Machine center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1708727138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Man / Machine description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Man / Machine description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3894138126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Request by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 883074743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Request date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3099782205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope of 4M request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Scope of 4M request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3074770475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of 4M request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Type of 4M request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Version - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2879588671 - Control 1161151528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Work order number</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Work order number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 810806140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost estimation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Cost Estimation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1907482289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of cost estimation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Unit of cost estimation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1832869825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current regulation details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Current regulation details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2301460895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current regulation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Current regulation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 451304417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer notify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Customer notifying - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 886257697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer notify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Customer notify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2422281741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaulation required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Evaluation required (Test production) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4148296714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCN number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control PCN number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1760224210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test production qty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Test production quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2051529823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiver number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Waiver number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1086602828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4247732780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Design Enginnering - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3750623962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control DE approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4135576814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Engineering leader</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Engineering leader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3828520125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENG decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control ENG approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1798599856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Engineering leader decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control ENG leader approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 209575824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Final decision by QA Manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3675908304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Final decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4062690752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Final decision comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2276618878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Engineering</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Process Engineering - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3971173070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control PE approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3252522434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PE decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control PE approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4267126068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Production manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 4128211569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prod. manager decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Prod. manager approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3190178688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prod. manager decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control ProdMan approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2942679091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production planner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Production planner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 2741675465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control PP approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1348325989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PP decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control PP approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 397069784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality engineer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Quality engineer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 1121347105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA decision comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control QA approve comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3622249462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QA engineer decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control QA engineer approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 3482283563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purpose of change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Purpose of change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Control 222067953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purpose of change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Control Purpose of change with reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1623877755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Close document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1380954236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Measure data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Measure data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1072071264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download measure data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Download measure data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 92294709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload measure data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Upload measure data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 3339186539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download PCN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Download PCN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1021731986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload PCN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Upload PCN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 3132648690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Print document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1729624411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send notification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Send notification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1882968685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special work instructions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Special work instructions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 2207879269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download WI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Download Work inst. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 3083844000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload WI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Upload Work inst. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1635786446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download waiver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Download waiver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2879588671 - Action 1619590359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload waiver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Change Management - Action Upload waiver - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 772246153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Change Management list</source>
@@ -257,6 +897,71 @@
           <source>Teszgyártás menny. / Test prod. qty.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report 4M change report - ReportLabel LblTestQty</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4010024846 - Field 3592503381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Backup path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Change Management Setup - Field Backup path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4010024846 - Field 1947211577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Change management nos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Change Management Setup - Field Change management nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4010024846 - Field 3387385282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>IATF Document number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Change Management Setup - Field IATF Document number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 1282343734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Administrator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Administrator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 1426958511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Design Engineering approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Design Engineering approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 1373738301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Lead Engineer approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Lead Engineer approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 2366399378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Notify Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Notify Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 1728331776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Planner approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Planner approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 2886086953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Proc. Engineering approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Proc. Engineering approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 2476191391 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Production approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Production approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 249771265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M QA Engineer approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M QA Engineer approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 871277671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M QA Manager approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M QA Manager approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 337631938 - Field 1203649541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>4M Scope</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup - Field 4M Scope - Property Caption</note>
         </trans-unit>
       </group>
     </body>

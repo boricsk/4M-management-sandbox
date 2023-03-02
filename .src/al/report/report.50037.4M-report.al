@@ -1,4 +1,4 @@
-report 50035 "4M change report"
+report 50037 "4M change report"
 {
     DefaultLayout = RDLC;
     RDLCLayout = '.src/rdlc/Report.50035.4M-report.rdlc';
@@ -25,12 +25,12 @@ report 50035 "4M change report"
             column(Scope_of_4M_request; "Scope of 4M request") { }
             column(Work_order_numner; "Work order numner") { }
             column(Duration_of_4M; "Duration of 4M") { }
-            column(Current_regulation; getCurrentRegulation("Serial Number", Version)) { }
-            column(Prupose_of_change_with_reason; getChangePrupose("Serial Number", Version)) { }
+            column(Current_regulation; getCurrentRegulation("Serial Number")) { }
+            column(Prupose_of_change_with_reason; getChangePrupose("Serial Number")) { }
             column(Customer_name; "Customer name") { }
             column(Customer_item; "Customer item") { }
             column(Special_work_instruction; "Special work instruction") { }
-            column(Work_instruction_details; getSpecWorkInstruction("Serial Number", Version)) { }
+            column(Work_instruction_details; getSpecWorkInstruction("Serial Number")) { }
             column(Production_release; "Production release") { }
             column(Customer_notify; "Customer notify") { }
             column(APQP; APQP) { }
@@ -43,6 +43,39 @@ report 50035 "4M change report"
             column(Test_production_quantity; "Test production quantity") { }
             column(Cost_of_change; "Cost estimation") { }
             column(Unit_of_cost_est_; "Unit of cost est.") { }
+            column(DE_approved; "DE approved") { }
+            column(DE_approve_comments; "DE approve comments") { }
+            column(PE_approved; "PE approved") { }
+            column(PE_approve_comments; "PE approve comments") { }
+            column(ENG_leader_approved; "ENG leader approved") { }
+            column(ENG_approve_comments; "ENG approve comments") { }
+            column(PP_approved; "PP approved") { }
+            column(PP_approve_comments; "PP approve comments") { }
+            column(Prod__manager_approved; "Prod. manager approved") { }
+            column(ProdMan_approve_comments; "ProdMan approve comments") { }
+            column(QA_engineer_approved; "QA engineer approved") { }
+            column(QA_approve_comments; "QA approve comments") { }
+            column(Final_decision; "Final decision") { }
+            column(Final_decision_comments; "Final decision comments") { }
+            column(GetIATFDocNr; GetIATFDocNr()) { }
+            column(DE_approved_user; "DE approved user") { }
+            column(PE_approved_user; "PE approved user") { }
+            column(ENG_leade_user; "ENG leade user") { }
+            column(Prod__manager_user; "Prod. manager user") { }
+            column(PP_approved_user; "PP approved user") { }
+            column(QA_approved_user; "QA approved user") { }
+            column(Final_approved_user; "Final approved user") { }
+            column(DE_approved_date; "DE approved date") { }
+            column(PE_approved_date; "PE approved date") { }
+            column(ENG_leader_approved_date; "ENG leader approved date") { }
+            column(Prod__manager_approved_date; "Prod. manager approved date") { }
+            column(PP_approved_date; "PP approved date") { }
+            column(QA_engineer_approved_date; "QA engineer approved date") { }
+            column(Final_decision_date; "Final decision date") { }
+            column(isPCNAttached; isPCNAttached("Serial Number")) { }
+            column(isSpecWIAttached; isSpecWIAttached("Serial Number")) { }
+            column(isWaiverAttached; isWaiverAttached("Serial Number")) { }
+            column(isMeasureAttached; isMeasureAttached("Serial Number")) { }
 
         }
     }
@@ -100,7 +133,7 @@ report 50035 "4M change report"
         LblTestProd = 'Tesztgyártás szükséges? / Is test prod. necessary?', Locked = true;
         LblTestQty = 'Teszgyártás menny. / Test prod. qty.', Locked = false;
         LblCost = 'Költségvonzat / Cost of change', Locked = true;
-        LblDocNum = 'PM-11-01-02', Locked = true;
+        //LblDocNum = 'PM-11-01-02', Locked = true;
         LblManMachineDesc = 'Man / Machine description', Locked = true;
         LblDesignEng = 'Design engineer', Locked = true;
         LblProcEng = 'Process engineer', Locked = true;
@@ -111,11 +144,13 @@ report 50035 "4M change report"
         LblQaMan = 'Quality manager', Locked = true;
         LblApprove = 'Elfogadva / Approved', Locked = true;
         LblDeni = 'Elutasítva / Denied', Locked = true;
-        LblSign = 'Aláírás / Signature', Locked = true;
+        LblSign = 'Megjegyzés / Decision comment', Locked = true;
         LblDate = 'Dátum / Date', Locked = true;
         LblDecision = 'Döntés / Decision', Locked = true;
         LblStatus = 'Állapot / Status', Locked = true;
         LblUnitofcost = 'Várható költség egys. / Unit of cost estim.', Locked = true;
+        LblMeasureData = 'Mérési adatok / Measure data', Locked = true;
+        LblAttachmentDesscription = 'A dolumentumhoz feltöltött csatolmányok összegzése / Summary of document attachment', Locked = true;
 
     }
 
@@ -123,42 +158,42 @@ report 50035 "4M change report"
         ChangeRequest: Record "SEI 4M change request";
         CompanyInfo: Record "Company Information";
 
-    local procedure getCurrentRegulation(SerialNumber: Code[20]; vers: Integer): Text
+    local procedure getCurrentRegulation(SerialNumber: Code[20]): Text
     Var
         CurrRegulation: InStream;
         ReturnStr: Text;
     begin
         ReturnStr := '';
         ChangeRequest.Init();
-        ChangeRequest.Get(SerialNumber, vers);
+        ChangeRequest.Get(SerialNumber);
         ChangeRequest.CalcFields("Current regulation");
         ChangeRequest."Current regulation".CreateInStream(CurrRegulation);
         CurrRegulation.Read(ReturnStr);
         exit(ReturnStr);
     end;
 
-    local procedure getChangePrupose(SerialNumber: Code[20]; vers: Integer): Text
+    local procedure getChangePrupose(SerialNumber: Code[20]): Text
     Var
         ChangePrupose: InStream;
         ReturnStr: Text;
     begin
         ReturnStr := '';
         ChangeRequest.Init();
-        ChangeRequest.Get(SerialNumber, vers);
+        ChangeRequest.Get(SerialNumber);
         ChangeRequest.CalcFields("Prupose of change with reason");
         ChangeRequest."Prupose of change with reason".CreateInStream(ChangePrupose);
         ChangePrupose.Read(ReturnStr);
         exit(ReturnStr);
     end;
 
-    local procedure getSpecWorkInstruction(SerialNumber: Code[20]; vers: Integer): Text
+    local procedure getSpecWorkInstruction(SerialNumber: Code[20]): Text
     Var
         WIDetails: InStream;
         ReturnStr: Text;
     begin
         ReturnStr := '';
         ChangeRequest.Init();
-        ChangeRequest.Get(SerialNumber, vers);
+        ChangeRequest.Get(SerialNumber);
         ChangeRequest.CalcFields("Work instruction details");
         ChangeRequest."Work instruction details".CreateInStream(WIDetails);
         WIDetails.Read(ReturnStr);
@@ -172,6 +207,59 @@ report 50035 "4M change report"
         CompanyInfo.Init();
         CompanyInfo.get();
         exit(CompanyInfo.Name);
+    end;
+
+    local procedure GetIATFDocNr(): Code[20]
+    var
+        ManSetup: Record "Manufacturing Setup";
+    begin
+        ManSetup.Init();
+        ManSetup.Get();
+        exit(ManSetup."IATF Document number");
+    end;
+
+    local procedure isWaiverAttached(SerialNumber: Code[20]): Text
+    begin
+        ChangeRequest.Init();
+        ChangeRequest.Get(SerialNumber);
+        if ChangeRequest."Waiver attachment".HasValue then begin
+            exit('Waiver is attached.');
+        end else begin
+            exit('Waiver is not attached.');
+        end;
+    end;
+
+    local procedure isPCNAttached(SerialNumber: Code[20]): Text
+    begin
+        ChangeRequest.Init();
+        ChangeRequest.Get(SerialNumber);
+        if ChangeRequest."PCN attachment".HasValue then begin
+            exit('PCN is attached.');
+        end else begin
+            exit('PCN is not attached.');
+        end;
+    end;
+
+    local procedure isSpecWIAttached(SerialNumber: Code[20]): Text
+    begin
+        ChangeRequest.Init();
+        ChangeRequest.Get(SerialNumber);
+        if ChangeRequest."Work instruction attachment".HasValue then begin
+            exit('Work instruction is attached.');
+        end else begin
+            exit('Work instruction is not attached.')
+        end;
+    end;
+
+    local procedure isMeasureAttached(SerialNumber: Code[20]): Text
+    begin
+        ChangeRequest.Init();
+        ChangeRequest.Get(SerialNumber);
+        if ChangeRequest."Measure attachment".HasValue then begin
+            exit('Measure data is attached.');
+        end else begin
+            exit('Measure data is not attached.')
+        end;
     end;
 }
 //Hiba
